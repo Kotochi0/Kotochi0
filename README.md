@@ -17,3 +17,7 @@
   <b align=center > ¡Espero que os gusten los repositorios que vaya publicando! </b>
 
 ![Projecte nou (8)](https://github.com/Kotochi0/Kotochi0/assets/168423879/f29d9060-d41d-4958-a589-dd5e3630d852)
+
+
+https://github.com/Kotochi0/Kotochi0/assets/168423879/7690f891-73ab-4778-9c4c-dbf05ed3e8cc
+
