@@ -1,4 +1,6 @@
-<h1> ¡HOLA! </h1>
+  <h1> ¡HOLA! </h1>
+
+![Projecte nou (10)](https://github.com/Kotochi0/Kotochi0/assets/168423879/93f196b8-1f43-49ba-82af-2f6daa6bac90)
 
   <h2> Soy un pequeño editor de vídeo. </h2> <br>
   
@@ -14,4 +16,4 @@
 
   <b> ¡Espero que os gusten los repositorios que vaya publicando! </b>
 
-![image](https://github.com/Kotochi0/Kotochi0/assets/168423879/1cf13f53-9057-4de3-8c6c-9c1bdf5f5ed5)
+![Projecte nou (8)](https://github.com/Kotochi0/Kotochi0/assets/168423879/f29d9060-d41d-4958-a589-dd5e3630d852)
