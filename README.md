@@ -4,7 +4,7 @@
 
 <div align="center">
 
-    <a href="https://twitter.com/@Kotochitw?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Kotochitw</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <script><a href="https://twitter.com/@Kotochitw?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Kotochitw</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <p align="center"> 
