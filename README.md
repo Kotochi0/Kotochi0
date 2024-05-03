@@ -14,8 +14,7 @@
 
 ![Projecte nou (7)](https://github.com/Kotochi0/Kotochi0/assets/168423879/dff5d2a4-4958-47fc-9780-3123b0686990)
 
-  <b align=center > ¡Espero que os gusten los repositorios que vaya publicando! </b>
+  <h2 align=center > ¡Espero que os gusten los repositorios que vaya publicando! </h2>
 
 ![Projecte nou (8)](https://github.com/Kotochi0/Kotochi0/assets/168423879/f29d9060-d41d-4958-a589-dd5e3630d852)
 
-https://files.catbox.moe/971lzt.mp4
