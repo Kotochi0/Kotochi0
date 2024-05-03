@@ -1,5 +1,4 @@
   <h1 align=center > ¡HOLA! </h1>
-
 ![Projecte nou (10)](https://github.com/Kotochi0/Kotochi0/assets/168423879/93f196b8-1f43-49ba-82af-2f6daa6bac90)
 
   <h2 align=center > Soy un pequeño editor de vídeo. </h2> <br>
