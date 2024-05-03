@@ -4,7 +4,7 @@
 
 <div align="center">
 
- <a href="https://twitter.com/@Kotochitw?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Kotochitw</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <rssapp-wall id="x3RzKiLrIOdnPVKJ"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
  
 </div>
 
