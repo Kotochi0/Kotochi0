@@ -17,7 +17,8 @@
 
 
    **Social Media**
-    **Twitter** <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Kotochitw?style=for-the-badge&logo=x&color=%23000000">
+    [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/@Kotochitw)
+ <br>
     **YouTube** <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5HgIuaN-iYQ6UVcPzjUiUg?style=for-the-badge&logo=youtube&color=%23FF0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC5HgIuaN-iYQ6UVcPzjUiUg">
 
 
