@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+![ezgif-2-b95b673fb1 (1)](https://github.com/Kotochi0/Kotochi0/assets/168423879/dee23a42-b855-4f78-80e2-06670e755089)
 
 <div align="center">
-    <img src="[https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp](https://files.catbox.moe/c1qofh.gif)" height="120px" />
+    
 </div>
 
 <p align="center"> 
