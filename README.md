@@ -18,10 +18,7 @@
 
    **Social Media**
  <br>
-
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5HgIuaN-iYQ6UVcPzjUiUg)
-  
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5HgIuaN-iYQ6UVcPzjUiUg)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@Kotochitw)
 
 
