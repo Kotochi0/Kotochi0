@@ -6,6 +6,7 @@
 
 <br>
 
+- 16 y/o
 - Student of Microcomputer systems and Network
 - Content creator
 - Trying to become a self-taught artist
